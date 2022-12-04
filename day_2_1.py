@@ -1,4 +1,0 @@
-from get_input import request_input
-
-input = request_input(2, '53616c7465645f5f8d4008827288bfe65434880edf33465fc5bd803ea7959c7640b4d782fa4003dbb1a85b9bd9294c3a9981444f3c6f53242041d0f9416ca76d')
-
